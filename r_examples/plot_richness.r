@@ -45,7 +45,8 @@ x <- ggplot(summary_stats, aes(x = stream, y = richness, fill = type)) +
     scale_y_continuous(limits = c(0, 16),
                      expand = c(0, 0), # Set y range
                      breaks = 0:100 * 2) +
-    theme_bw(base_size = 25) + theme(panel.grid = element_blank()) +
+    theme_bw(base_size = 25) + 
+    theme(panel.grid = element_blank()) +
     theme(legend.position = "none")
 
 png("richness.png")
