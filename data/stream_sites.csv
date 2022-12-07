@@ -1,0 +1,15 @@
+Stream,Designation,Location,Town,Order,Type
+Choconut Creek,CCD,"42.08, -76.06","Vestal, NY",4,Urban
+,CCU,"42.01, -76.00","Vestal Center, NY",3,Rural
+Fuller Hollow Creek,FHD,"42.09, -75.96","Binghamton, NY",2,Urban
+,FHU,"42.07, -75.95","Vestal, NY",2,Suburban
+Little Choconut Creek,LCD,"42.11, -75.97","Binghamton, NY",3,Urban
+,LCU,"42.20, -75.95","Binghamton, NY",2,Rural
+Pierce Creek,PCD,"42.09, -75.89","Binghamton, NY",2,Urban
+,PCU,"42.06, -75.87","Binghamton, NY",2,Rural
+Patterson Creek,PTD,"42.11, -76.01","Endwell, NY",3,Urban
+,PTU,"42.15, -76.01","Endwell, NY",2,Rural
+Little Snake Creek,LSD,"42.02, -75.81","Conklin, NY",3,Reference
+,LSU,"42.03, -75.84","Conklin Forks, NY",3,Reference
+Trowbridge Creek,TBD,"42.00, -75.73","Windsor, NY",3,Reference
+,TBU,"42.04, -75.72","Windsor, NY",2,Reference
